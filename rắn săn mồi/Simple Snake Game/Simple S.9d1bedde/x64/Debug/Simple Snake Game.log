@@ -1,0 +1,5 @@
+﻿  Simple Snake Game.cpp
+C:\Users\admin\source\project\Simple Snake Game\Simple Snake Game.cpp(168,5): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\admin\source\project\Simple Snake Game\Simple Snake Game.cpp(175,5): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\admin\source\project\Simple Snake Game\Simple Snake Game.cpp(178,5): warning C4553: '==': result of expression not used; did you intend '='?
+  Simple Snake Game.vcxproj -> C:\Users\admin\source\project\Simple Snake Game\x64\Debug\Simple Snake Game.exe
